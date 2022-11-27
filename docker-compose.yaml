@@ -14,5 +14,5 @@ services:
       - DISCOVERY_WORKER_POOL=20
       - LOG_MODE=dev
       - TZ=Europe/Moscow
-      - DISCOVERY_PERIOD_SEC=30
+      - DISCOVERY_PERIOD_SEC=32
       - EXECUTOR_SERVICE_IMPL=PingExecutorService
